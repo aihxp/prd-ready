@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.1 (2026-04-23)
+
+Documentation-only patch. Reflects the arrival of `architecture-ready` v1.0.0 (https://github.com/aihxp/architecture-ready) as a live sibling in the ready-suite. architecture-ready is the top of the planning tier and architecture-ready's upstream. No behavioral changes to the skill.
+
+### Changed
+
+- **`SUITE.md`** updated to list architecture-ready at 1.0.0. Every sibling's recorded version is bumped one patch to track the release. Copy remains byte-identical across every live sibling.
+- **SKILL.md frontmatter version** bumped to 1.0.1. No content change beyond the version tag.
+
 All notable changes to this skill are documented here. Format loosely follows [Keep a Changelog](https://keepachangelog.com/). Version numbers follow the ready-suite discipline: major for breaking skill-contract changes, minor for additive behavior changes, patch for documentation-only updates (including sibling-ship tracking in SUITE.md).
 
 ## v1.0.0 (2026-04-23)
